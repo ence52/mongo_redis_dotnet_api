@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aRUvMIomglsW0XoDmyFn/w1WlU/p6wFQWMrp+f12gHk=",
+  "Source": "MongoRedisApi",
+  "BasePath": "_content/MongoRedisApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
