@@ -38,3 +38,4 @@ F:\Software\MongoRedisApi\MongoRedisApi\bin\Debug\net8.0\SharpCompress.dll
 F:\Software\MongoRedisApi\MongoRedisApi\bin\Debug\net8.0\Snappier.dll
 F:\Software\MongoRedisApi\MongoRedisApi\bin\Debug\net8.0\StackExchange.Redis.dll
 F:\Software\MongoRedisApi\MongoRedisApi\bin\Debug\net8.0\ZstdSharp.dll
+F:\Software\MongoRedisApi\MongoRedisApi\obj\Debug\net8.0\MongoRedisApi.sourcelink.json

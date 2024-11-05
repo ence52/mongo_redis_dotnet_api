@@ -7,6 +7,6 @@ namespace MongoRedisApi.Services.Abstract
         public  Task<List<User>> GetAllAsync();
         public Task<User> GetUserByIdAsync(string id);
         public Task CreateUserAsync(User user);
-        public Task DeleteUserAsync(string id);
+        public Task<bool> DeleteUserAsync(string id);
     }
 }

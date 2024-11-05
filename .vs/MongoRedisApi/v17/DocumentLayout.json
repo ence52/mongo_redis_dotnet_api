@@ -3,40 +3,52 @@
   "WorkspaceRootPath": "F:\\Software\\MongoRedisApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|f:\\software\\mongoredisapi\\mongoredisapi\\services\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|solutionrelative:mongoredisapi\\services\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|f:\\software\\mongoredisapi\\mongoredisapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|solutionrelative:mongoredisapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|f:\\software\\mongoredisapi\\mongoredisapi\\services\\abstract\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|solutionrelative:mongoredisapi\\services\\abstract\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|f:\\software\\mongoredisapi\\mongoredisapi\\utilities\\mongodbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|solutionrelative:mongoredisapi\\utilities\\mongodbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|f:\\software\\mongoredisapi\\mongoredisapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|solutionrelative:mongoredisapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7FA8032-8B32-485C-8D86-468A037F2705}|docker-compose.dcproj|f:\\software\\mongoredisapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B7FA8032-8B32-485C-8D86-468A037F2705}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|f:\\software\\mongoredisapi\\mongoredisapi\\services\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|solutionrelative:mongoredisapi\\services\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|f:\\software\\mongoredisapi\\mongoredisapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|solutionrelative:mongoredisapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|f:\\software\\mongoredisapi\\mongoredisapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|solutionrelative:mongoredisapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|f:\\software\\mongoredisapi\\mongoredisapi\\abstract\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|solutionrelative:mongoredisapi\\abstract\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|f:\\software\\mongoredisapi\\mongoredisapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|solutionrelative:mongoredisapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|f:\\software\\mongoredisapi\\mongoredisapi\\abstract\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|solutionrelative:mongoredisapi\\abstract\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7FA8032-8B32-485C-8D86-468A037F2705}|docker-compose.dcproj|f:\\software\\mongoredisapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B7FA8032-8B32-485C-8D86-468A037F2705}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|f:\\software\\mongoredisapi\\mongoredisapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|solutionrelative:mongoredisapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|f:\\software\\mongoredisapi\\mongoredisapi\\models\\mongosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0FB1D77-D26C-4B2B-AA60-B1195D0C42B9}|MongoRedisApi\\MongoRedisApi.csproj|solutionrelative:mongoredisapi\\models\\mongosettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Software\\MongoRedisApi\\MongoRedisApi\\Services\\Abstract\\ICacheService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MongoRedisApi\\Services\\Abstract\\ICacheService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Software\\MongoRedisApi\\MongoRedisApi\\Services\\RedisCacheService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MongoRedisApi\\Services\\RedisCacheService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,65 +58,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Program.cs",
-              "RelativeDocumentMoniker": "MongoRedisApi\\Program.cs",
-              "ToolTip": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Program.cs",
-              "RelativeToolTip": "MongoRedisApi\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Services\\Abstract\\IUserService.cs",
+              "RelativeDocumentMoniker": "MongoRedisApi\\Services\\Abstract\\IUserService.cs",
+              "ToolTip": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Services\\Abstract\\IUserService.cs",
+              "RelativeToolTip": "MongoRedisApi\\Services\\Abstract\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T15:24:19.046Z"
+              "WhenOpened": "2024-11-05T20:04:36.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ICacheService.cs",
               "DocumentMoniker": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Services\\Abstract\\ICacheService.cs",
               "RelativeDocumentMoniker": "MongoRedisApi\\Services\\Abstract\\ICacheService.cs",
               "ToolTip": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Services\\Abstract\\ICacheService.cs",
               "RelativeToolTip": "MongoRedisApi\\Services\\Abstract\\ICacheService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:48:08.482Z"
+              "WhenOpened": "2024-11-05T20:02:32.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "RedisCacheService.cs",
               "DocumentMoniker": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Services\\RedisCacheService.cs",
               "RelativeDocumentMoniker": "MongoRedisApi\\Services\\RedisCacheService.cs",
               "ToolTip": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Services\\RedisCacheService.cs",
               "RelativeToolTip": "MongoRedisApi\\Services\\RedisCacheService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAADgv2gAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T14:30:18.817Z"
+              "WhenOpened": "2024-11-05T20:02:23.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoDbHelper.cs",
+              "DocumentMoniker": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Utilities\\MongoDbHelper.cs",
+              "RelativeDocumentMoniker": "MongoRedisApi\\Utilities\\MongoDbHelper.cs",
+              "ToolTip": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Utilities\\MongoDbHelper.cs",
+              "RelativeToolTip": "MongoRedisApi\\Utilities\\MongoDbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:47:55.113Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "F:\\Software\\MongoRedisApi\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "F:\\Software\\MongoRedisApi\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvyYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-10-26T16:23:08.183Z"
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MongoRedisApi\\Services\\UserService.cs",
+              "ToolTip": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Services\\UserService.cs",
+              "RelativeToolTip": "MongoRedisApi\\Services\\UserService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAApwC4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:23:03.931Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UserController.cs",
               "DocumentMoniker": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "MongoRedisApi\\Controllers\\UserController.cs",
               "ToolTip": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Controllers\\UserController.cs",
               "RelativeToolTip": "MongoRedisApi\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwC4AAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T16:02:29.608Z",
               "EditorCaption": ""
@@ -112,6 +141,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Program.cs",
+              "RelativeDocumentMoniker": "MongoRedisApi\\Program.cs",
+              "ToolTip": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Program.cs",
+              "RelativeToolTip": "MongoRedisApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:24:19.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "F:\\Software\\MongoRedisApi\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "F:\\Software\\MongoRedisApi\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-26T16:23:08.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MongoSettings.cs",
               "DocumentMoniker": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Models\\MongoSettings.cs",
               "RelativeDocumentMoniker": "MongoRedisApi\\Models\\MongoSettings.cs",
@@ -123,31 +177,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IUser.cs",
               "DocumentMoniker": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Abstract\\IUser.cs",
               "RelativeDocumentMoniker": "MongoRedisApi\\Abstract\\IUser.cs",
               "ToolTip": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Abstract\\IUser.cs",
               "RelativeToolTip": "MongoRedisApi\\Abstract\\IUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:21:39.575Z"
+              "WhenOpened": "2024-10-26T15:21:39.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Models\\User.cs",
               "RelativeDocumentMoniker": "MongoRedisApi\\Models\\User.cs",
               "ToolTip": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\Models\\User.cs",
               "RelativeToolTip": "MongoRedisApi\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T15:21:15.023Z"
+              "WhenOpened": "2024-10-26T15:21:15.023Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\Software\\MongoRedisApi\\MongoRedisApi\\appsettings.json",
               "RelativeDocumentMoniker": "MongoRedisApi\\appsettings.json",

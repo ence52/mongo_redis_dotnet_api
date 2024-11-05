@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MongoRedisApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a027f123e2f8a42560e99ec758688791d250fa1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MongoRedisApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MongoRedisApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

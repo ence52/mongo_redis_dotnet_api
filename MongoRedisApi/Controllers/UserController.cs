@@ -10,29 +10,17 @@ namespace MongoRedisApi.Controllers
     public class UserController : ControllerBase
     {
         private readonly UserService _userService;
-        private readonly RedisCacheService _redisCacheService;
         private readonly ILogger<UserController> _logger;
-        public UserController(UserService userService,RedisCacheService redisCacheService, ILogger<UserController> logger)
+        public UserController(UserService userService, ILogger<UserController> logger)
         {
             _userService = userService;
-            _redisCacheService = redisCacheService;
             _logger = logger;
         }
 
         [HttpGet]
         public async Task<IActionResult> GetAllUsers()
         {
-            _logger.LogInformation("Get all users");
-
-            var cachedUsers = await _redisCacheService.GetCacheAsync<List<User>>("allUsers");
-
-            if ( cachedUsers!=null && cachedUsers.Count!=0)
-            {       _logger.LogInformation($"{cachedUsers.Count} cache users found");
-                    return Ok(cachedUsers);
-            }
-            _logger.LogInformation($"No cache users found. Users getting from db");
-            var users= await _userService.GetAllAsync();
-            await _redisCacheService.SetCacheAsync<List<User>>("allUsers", users);
+            var users = await _userService.GetAllAsync();
             return Ok(users);
         }
 
@@ -40,7 +28,8 @@ namespace MongoRedisApi.Controllers
         public async Task<IActionResult> GetUserById(string id )
         {
             var user = await _userService.GetUserByIdAsync(id);
-            return Ok(user);
+
+            return user != null ? Ok(user) : NotFound() ;
         }
 
         [HttpPost]
@@ -48,6 +37,31 @@ namespace MongoRedisApi.Controllers
         {
             await _userService.CreateUserAsync(user);
             return CreatedAtAction(nameof(GetUserById), new { id = user.Id }, user);
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteUserAsync(string id)
+        {
+            if (string.IsNullOrWhiteSpace(id))
+            {
+                _logger.LogWarning("Delete request recieved with an empty ID.");
+                return BadRequest("ID is required");
+            }
+
+            var result = await _userService.DeleteUserAsync(id);
+
+            if (result)
+            {
+                _logger.LogInformation("User {id} deleted succesfully",id);
+                return Ok(new {Message="User deleted succesfully."});
+            }
+            else
+            {
+                _logger.LogWarning("User deletion failed or user not found: {id}",id);
+                return NotFound(new { Message = "User not found or could not be deleted." });
+            }
+
+            
         }
     }
 }

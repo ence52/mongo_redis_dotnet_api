@@ -18,13 +18,12 @@ builder.Services.AddSingleton<UserService>();
 
 //Redis
 var redisConnectionString = builder.Configuration.GetSection("RedisSettings:ConnectionString").Value;
-Console.WriteLine(redisConnectionString+"----------------------------------------------------------");
 builder.Services.AddSingleton<IConnectionMultiplexer>(sp =>
 {
     var configuration = ConfigurationOptions.Parse(redisConnectionString);
     return ConnectionMultiplexer.Connect(configuration);
 });
-builder.Services.AddScoped<RedisCacheService>();
+builder.Services.AddSingleton<RedisCacheService>();
 //Logger
 builder.Logging.ClearProviders();
 builder.Logging.AddConsole();
